@@ -31,4 +31,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="大图" />
+
+    <Button
+        android:id="@+id/custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义" />
+
+    <Button
+        android:id="@+id/mbUpdateCustom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="更新" />
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放" />
 </androidx.appcompat.widget.LinearLayoutCompat>
